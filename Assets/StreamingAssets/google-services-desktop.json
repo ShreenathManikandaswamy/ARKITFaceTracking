@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "217588904875-fv5tc33a0pf9gku56jfi595dha9436am.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfeyq6_QrmGIoUHvJKj6uXMifiCw09VM"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:217588904875:ios:914372146f3f2510", 
+        "android_client_info": {
+          "package_name": "com.ict.facefilter"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "facefilter-81c57.appspot.com", 
+    "project_id": "facefilter-81c57", 
+    "firebase_url": "https://facefilter-81c57.firebaseio.com", 
+    "project_number": "217588904875"
+  }
+}
